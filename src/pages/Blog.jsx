@@ -11,31 +11,31 @@ const blogPosts = [
     title: "Top 10 Travel Hacks Every Smart Traveler Should Know",
     summary: "10 smart hacks to save time, money, and travel smarter.",
     date: "May 12, 2025",
-    author: "Aviral Mishra",
+    author: "Bhawana",
   },
   {
     title: "How to Travel on a Budget Without Compromising Comfort",
     summary: "Design lessons from building a user-friendly hotel app.",
     date: "May 1, 2025",
-    author: "Aviral Mishra",
+    author: "Aviral Saxena",
   },
   {
     title: "Best Apps Every Traveler Should Have",
     summary: "Explore the must-have apps for navigation, bookings, and translation.",
     date: "April 20, 2025",
-    author: "Aviral Mishra",
+    author: "Gauri Mishra",
   },
   {
     title: "Why Hotel Reviews Matter More Than You Think",
     summary: "Learn how to interpret reviews and spot genuine feedback.",
     date: "April 10, 2025",
-    author: "Aviral Mishra",
+    author: "Saksham Sharma",
   },
   {
     title: "Packing Like a Pro: Tips for Light Travel",
     summary: "Smart packing strategies to save space and stress.",
     date: "March 28, 2025",
-    author: "Aviral Mishra",
+    author: "Harsh Raj",
   },
 ];
 const Blog = () => {
