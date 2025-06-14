@@ -2,7 +2,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .hero-section {
-  background: url('/images/hotel-hero.jpg') no-repeat center center/cover;
+  /* background: url('/images/hotel-hero.jpg') no-repeat center center/cover; */
   height: 80vh;
   display: flex;
   align-items: center;
